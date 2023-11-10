@@ -8,7 +8,7 @@ Welcome to the repository for the Python Programming Essentials course. This rep
 
 Explore the practical aspects of Python Programming through hands-on Jupyter Notebooks. These notebooks cover various topics, including fundamental programming concepts and object-oriented programming.
 
-- [Notebook: Introduction to Python](./Notebooks/Python-Programming-Starter.ipynb)
+- [Notebook: Introduction to Python](./Notebooks/Python_Programming_Starter.ipynb)
 
 ### Main Slide Presentation
 
